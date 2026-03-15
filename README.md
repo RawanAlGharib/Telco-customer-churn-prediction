@@ -35,11 +35,12 @@ The final dashboard features:
 3. **Dynamic Call List:** A customer-level priority table controlled by a custom AI Risk Threshold parameter.
 
 ## 📁 Repository Structure
-* `scripts/` -  The Python code for EDA, Preprocessing, and Random Forest modeling.
-* `data/` - Raw datasets and the exported CSV containing the AI probability predictions.
+* `scripts/` -  Contains the python file (.py)  for EDA, Preprocessing, and Random Forest modeling.
+* `data/` - Raw Telco dataset and the exported CSV containing the AI probability predictions.
 * `README.md` - Project documentation.
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone [Your-Repository-URL]`
+1. Clone the repository: git clone [https://github.com/YourUsername/telco-customer-churn-prediction]
 2. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
-3. Run the Jupyter Notebook to generate the predictions and export the final dataset.
+3. Run the script to generate predictions and export the final dataset:
+   python scripts/churn_model.py
