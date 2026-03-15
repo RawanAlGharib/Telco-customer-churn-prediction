@@ -44,5 +44,5 @@ The final dashboard features:
 2. Install the required dependencies: 
    ```bash
    pip install -r requirements.txt
-   3. Run the script to generate predictions and export the final dataset:
+3. Run the script to generate predictions and export the final dataset:
    python scripts/churn_model.py
