@@ -40,7 +40,7 @@ The final dashboard features:
 * `README.md` - Project documentation.
 
 ##  How to Run
-1. Clone the repository: git clone [https://github.com/YourUsername/telco-customer-churn-prediction]
+1. Clone the repository: git clone [https://github.com/RawanAlGharib/telco-customer-churn-prediction]
 2. Install the required dependencies: 
    ```bash
    pip install -r requirements.txt
